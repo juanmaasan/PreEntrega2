@@ -1,0 +1,14 @@
+.form-register .botones:hover{
+    background: gray;
+    transition: background-color 1s;
+}
+.text-uppercase:hover{
+    background-color: #cccccc;
+    transition:3s ; }
+.img-item:hover {
+    clip-path: circle(50% at 50% 50%);
+    transition: 3s;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+    transition-delay: linear; 
+}
